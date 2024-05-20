@@ -1,4 +1,4 @@
-package Practice.Chapter4.ex2;
+package Practice.Chapter4.ex02;
 
 import java.util.Scanner;
 

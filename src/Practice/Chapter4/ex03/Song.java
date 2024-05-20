@@ -1,4 +1,4 @@
-package Practice.Chapter4.ex3;
+package Practice.Chapter4.ex03;
 
 public class Song {
 	private String title;

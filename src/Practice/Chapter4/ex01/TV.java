@@ -1,4 +1,4 @@
-package Practice.Chapter4.ex1;
+package Practice.Chapter4.ex01;
 
 public class TV {
 	String manf;
